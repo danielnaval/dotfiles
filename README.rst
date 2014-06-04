@@ -8,6 +8,6 @@ How to install:
    
 1. Clone the repository
 2. Run :bash:`bash install.sh`
-3. Run :bash:`. ~/.bashrc`
+3. Run :bash:`source ~/.bashrc`
 4. Run :bash:`vim` then run :bash:`:BundleInstall`
 5. Change the .gitconfig name, username and email
