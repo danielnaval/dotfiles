@@ -1,8 +1,8 @@
 [user]
-    name = Brian Zhang
-    email = tangerinewhite32@gmail.com
+    name = Jason Li
+    email = jason.w.li.112@outlook.com
 [github]
-    user = tangerinewhite32
+    user = Skyark112
 [core]
     editor = vim
     excludesfile = ~/.gitignore_global
