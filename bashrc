@@ -93,10 +93,9 @@ export PS1=" $GREEN\u@\h $YELLOW\@ $YELLOWBOLD\$(parse_git_branch) $BLUEBOLD\w \
 
 # virtualenvwrapper stuff.
 export WORKON_HOME=~/Envs
+
 if [ -f /usr/local/bin/virtualenvwrapper.sh ]; then
   source /usr/local/bin/virtualenvwrapper.sh
-elif [ -f /usr/bin/virtualenvwrapper.sh ]; then
-  source /usr/bin/virtualenvwrapper.sh
 fi
 export EDITOR=vim
 # Things for python virtualenv

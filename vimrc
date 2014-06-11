@@ -26,7 +26,7 @@ Bundle 'scrooloose/nerdtree'
 Bundle 'walm/jshint.vim'
 Bundle 'ervandew/supertab'
 Bundle 'nathanaelkane/vim-indent-guides'
-Bundle 'flazz/vim-colorschemes'
+" Bundle 'flazz/vim-colorschemes'
 
 filetype plugin indent on
 syntax enable                    " Turn on Syntax highlighting
@@ -119,7 +119,7 @@ autocmd BufWinEnter *.* silent loadview
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 " COLOR SCHEME
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
-colorscheme 256-jungle
+" colorscheme 256-jungle
 
 highlight OverLength      ctermbg=red
 highlight ColorColumn     ctermbg=darkgray
