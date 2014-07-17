@@ -1,8 +1,8 @@
 [user]
-    name = Jason Li
-    email = jason.w.li.112@outlook.com
+    name = Daniel Naval
+    email = daniel.naval@socialgrowthtechnologies.com
 [github]
-    user = Skyark112
+    user = danielnaval
 [core]
     editor = vim
     excludesfile = ~/.gitignore_global
